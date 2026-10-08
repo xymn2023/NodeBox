@@ -1,5 +1,14 @@
 # NodeBox
 
+
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/xymn2023/NodeBox/main/NodeBox.sh)
+```
+
+
+
+
+
 # NodeBox 核心与协议说明
 
 NodeBox 当前支持两个代理核心：
